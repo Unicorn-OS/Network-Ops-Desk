@@ -1,0 +1,2 @@
+# Network-Ops-Desk
+A PC-less Remote Desktop operating system which Centralizes Computing Resources, and uses Singularity to transmit them to you. Letting Uni.os server your entire Desk over the network physical location, or A.R. &amp; V.R. wearables for freedom of mobility &amp; Travel! Works really well for Multi-monitor &amp; Multi-OS setup! (I'm using Windows, Mac, Linux, &amp; Android.. a 4 monitor setup, with all the Computing in the basement!)
